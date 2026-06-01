@@ -368,5 +368,5 @@ List all events that currently have no sessions scheduled under them.
 
 **SOWMYA BADONI**
 
-B.TECH. Artificial Intelligence and Machine Learning 
+B.TECH. Artificial Intelligence and Data Science
 Saveetha Engineering College
