@@ -538,5 +538,5 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 
 **SOWMYA BADONI**
 
-B.TECH. Artificial Intelligence and Machine Learning 
+B.TECH. Artificial Intelligence and Data Science 
 Saveetha Engineering College
